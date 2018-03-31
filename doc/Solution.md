@@ -1,5 +1,8 @@
 # 参考方案
 
+## 项目架构
+![项目架构](https://github.com/thethomason/aliyunCompetition/blob/master/pic/welf-ship-archi.png)
+
 ## 目录结构
 
 ```bash
