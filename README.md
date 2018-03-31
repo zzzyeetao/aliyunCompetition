@@ -2,6 +2,16 @@
 阿里云参赛
 
 ## 目录结构
+```bash
+├─facemerge
+│  ├─assets
+│  │  ├─css
+│  │  └─imgs
+│  ├─js
+│  └─views
+└─voicemerge
+```
+```bash
     |- 首页
     | |- 注册页面
     | |- 登录页面
